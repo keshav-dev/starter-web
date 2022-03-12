@@ -8,6 +8,10 @@ Examplt to show different parts of the git repo and various commands using this 
 
 ## Purpose
 
+stated above, to provide simple examples for git demo
+
 ## Deployment
+
+just blah blah blah
 
 ## How to contribute 
