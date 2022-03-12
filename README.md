@@ -15,3 +15,6 @@ stated above, to provide simple examples for git demo
 just blah blah blah
 
 ## How to contribute 
+
+### Copyright
+2014 Git.Training
